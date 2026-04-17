@@ -1,3 +1,10 @@
+export const metadata = {
+  title: "About",
+  description: "About Section",
+};
+
+
+
 import Link from 'next/link'
 import React from 'react'
 

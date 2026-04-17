@@ -1,3 +1,9 @@
+export const metadata = {
+  title: "Contact",
+  description: "Contact us section",
+};
+
+
 import React from 'react'
 
 const ContactPage = () => {

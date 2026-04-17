@@ -1,3 +1,9 @@
+export const metadata = {
+  title: "Blogs",
+  description: "Blog Pages",
+};
+
+
 import Link from 'next/link';
 import React from 'react'
 
